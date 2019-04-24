@@ -1,0 +1,1 @@
+This is a program to solve a stochastic optimal control problem. A standard life-cycle model typically does not permit analytical solutions and accounts for numerical methods.
